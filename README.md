@@ -5,9 +5,12 @@
 - **Important Customers.**
 
 **Also each one of these report components are responsive so we can easily get the targetted numbers.**
+## Requirements
+- Power BI
+- Mysql Workbench
 ## Let's look at some screenshots to have a better idea!!!!!!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="40px">
 
-The data model created using **`PowerBI`**..........
+The data model created using **`PowerBI`** -
 
 ![data model](https://user-images.githubusercontent.com/79920441/143277304-714045d4-fe6c-4db4-82d5-bb93611e3a2d.png)
 
